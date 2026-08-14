@@ -38,3 +38,5 @@ React + Vite + Supabase application for tracking member savings and a real poole
 7. Approve/process withdrawals according to the pool's actual available funds.
 
 The application is designed around genuine savings, documented purchases, actual sales and recorded investment results. It should not be configured to promise fixed returns or to pay members from recruitment deposits.
+
+Deployment refresh: rebuild after environment configuration.
